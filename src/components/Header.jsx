@@ -11,8 +11,8 @@ function Header() {
       };
   return (
    <>
-      
-<div class="min-h-[100px] bg-gradient-to-r from-green-400 via-yellow-400 to-purple-400 grid sm:grid-cols-12" >
+
+<div class="min-h-[100px] bg-gradient-to-r from-green-400 via-yellow-400 to-purple-400 grid sm:grid-cols-12 " >
   <div class="grid grid-cols-2 sm:col-span-5 ">
   <div class="flex justify-center items-center">
   <img className="h-20 w-26" src="https://t4.ftcdn.net/jpg/05/06/60/87/240_F_506608769_dJDa5BUUeZdklFICN9VIHCq3WSZziKGA.jpg" alt="Workflow" />
