@@ -4,7 +4,7 @@ import Banner from '../components/Banner'
 function Contact() {
   return (
        <>
-       <Banner/>
+       <Banner  headerText="Contact Us" paraText="Home - Contact us"/>
        <div className='min-h-[400px] grid sm:grid-cols-2 bg-gray-50 '>
        <div className='flex flex-col justify-center items-center space-y-4 p-6 '>
   <div className='flex flex-col sm:items-start w-full max-w-md items-center'>
