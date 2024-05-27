@@ -34,7 +34,7 @@ function About() {
       </div>
      </div>
 
-     <div className='min-h-[400px] grid sm:grid-cols-2 gap-4 p-4 m-12'>
+     <div className='min-h-[400px] grid sm:grid-cols-2 gap-4 p-4 m-12 container'>
      
   <div className='m-6 p-4 bg-gradient-to-r from-yellow-400 to-purple-500 min-h-[50px] min-w-[40px] flex flex-col justify-center items-start text-lg font-semibold rounded shadow-lg'>
     <h1 className='text-3xl font-bold text-purple-600 mb-4 font-serif'>Qualified and Caring Staff</h1>
